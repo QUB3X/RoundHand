@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Andrea Franchini",
+    "longName": "RoundHand",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "RoundHand",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "dde962dd-b20c-41fe-adb3-c641f0e05b38",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
